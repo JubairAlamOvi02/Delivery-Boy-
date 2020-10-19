@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154411874926",
+    "firebase_url": "https://delivery-boy-14676.firebaseio.com",
+    "project_id": "delivery-boy-14676",
+    "storage_bucket": "delivery-boy-14676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154411874926:android:6965cb339faacd2fbd447f",
+        "android_client_info": {
+          "package_name": "com.example.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154411874926-n8s7vvg4u3ga196nigk46hu52csh5gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4AoHcwhvNtxgAqSaElBhH5wA-Ei_tO5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154411874926-n8s7vvg4u3ga196nigk46hu52csh5gct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
