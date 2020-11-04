@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
-                    sleep(7000);
+                    sleep(2700);
                 }
                 catch (Exception e ){
                     e.printStackTrace();
